@@ -4,7 +4,7 @@
 ## Sample
 ![pedderroooooooooo](examp.gif)
 
-# LIVE AT [justxd22.github.io/pedro_xd](https://justxd22.github.io/pedro_xd)
+# LIVE AT [justxd22.github.io/pedro_xD](https://justxd22.github.io/pedro_xD)
 
 - Completely in css 
 - One png
